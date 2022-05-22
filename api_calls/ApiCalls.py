@@ -9,4 +9,5 @@ class ApiCalls:
         response = requests.get(url, params={"q": q, "appid":appid})
         return response
 
-
+    def post(self):
+        pass
