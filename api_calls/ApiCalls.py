@@ -14,3 +14,5 @@ class ApiCalls:
 
     def patch_this(self):
         pass
+    def delete_this(self):
+        pass
