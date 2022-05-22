@@ -11,3 +11,6 @@ class ApiCalls:
 
     def post(self):
         pass
+
+    def patch_this(self):
+        pass
